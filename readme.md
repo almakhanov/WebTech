@@ -1,7 +1,7 @@
-Web Technologies Group:\n
+Web Technologies Group:
 
-Nursultan Almakhanov\n
-Askhat Telzhanov\n
-Alisher Qalqaman\n
-Adlet Balzhanov\n
+Nursultan Almakhanov
+Askhat Telzhanov
+Alisher Qalqaman
+Adlet Balzhanov
 
