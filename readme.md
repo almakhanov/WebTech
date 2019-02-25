@@ -4,4 +4,3 @@ Nursultan Almakhanov
 Askhat Telzhanov
 Alisher Qalqaman
 Adlet Balzhanov
-
