@@ -12,7 +12,7 @@ const routes: Routes = [
   { path: 'products', component: ProductComponent},
   { path: 'form', component: FormComponent },
   { path: 'cart', component: CartComponent },
-  { path: 'slider', component: SliderComponent}
+  { path: '', component: SliderComponent}
 ];
 
 @NgModule({
