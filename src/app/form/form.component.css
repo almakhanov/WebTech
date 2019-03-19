@@ -1,0 +1,18 @@
+.form_bar{
+  display: flex;
+  flex-direction: column;
+  width: 910px;
+}
+.form_bar input{
+  height: 30px;
+  width: 250px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+.form_bar textarea{
+  height: 100px;
+  width: 500px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
