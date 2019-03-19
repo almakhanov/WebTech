@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { MenuComponent } from './components/menu/menu.component';
-import { DynamicComponent } from './dynamic/dynamic.component';
 import { ProductComponent } from './product/product.component';
 
 
@@ -16,8 +15,7 @@ import { ProductComponent } from './product/product.component';
     ProductComponent,
     HeaderComponent,
     FooterComponent,
-    MenuComponent,
-    DynamicComponent
+    MenuComponent
   ],
   imports: [
     BrowserModule,

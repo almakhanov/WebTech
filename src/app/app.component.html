@@ -1,14 +1,15 @@
 <div class="container">
-  <router-outlet>
-    <app-header></app-header>
 
-    <div class="block-2">
-      <app-menu></app-menu>
+  <app-header></app-header>
 
-      <!--Dynamic app module is for presentation of all other components as slider, form, products-->
-      <app-dynamic></app-dynamic>
-    </div>
+  <div class="block-2">
+    <app-menu></app-menu>
 
-    <app-footer></app-footer>
-  </router-outlet>
+    <router-outlet>
+
+    </router-outlet>
+  </div>
+
+  <app-footer></app-footer>
+
 </div>
