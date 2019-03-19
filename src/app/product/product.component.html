@@ -1,0 +1,23 @@
+<div class="goods-bar-components">
+  <div class="goods-bar-components-top" >
+    <div class="gbct-top-1" align="center" >
+      <img src="../../favicon.ico" width="80">
+    </div>
+    <div class="gbct-top-2" align="center" style="color: #2E322B"><strong>{{product.name}}</strong></div>
+    <div class="gbct-top-3" align="center" style="padding: 10px;color: #2E322B"><strong>{{product.price}}</strong></div>
+  </div>
+  <div class="goods-bar-components-bottom" >
+    <div class="gbcb-bottom-1">
+      <div class="gbcb-bottom-1-minus" align="center"><strong>-</strong></div>
+      <div class="gbcb-bottom-1-number" align="center"><strong> 0 </strong></div>
+      <div class="gbcb-bottom-1-plus"  align="center"><strong>+</strong></div>
+    </div>
+    <div class="gbcb-bottom-2" align="center" ng-click="save3()">
+      В корзину
+    </div>
+  </div>
+</div>
+
+<ul class="products">
+  <li *ngFor="let product of products">
+</ul>
