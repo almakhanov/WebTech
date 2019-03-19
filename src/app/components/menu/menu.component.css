@@ -1,0 +1,37 @@
+
+.block-2-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+}
+.block-2-left-bars
+{
+  width:212px;
+  height: 42px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color:#f4f4f4;
+  border:1px solid #E1E1E1;
+  cursor: pointer;
+}
+.block-2-left-bars:hover{
+  color:#16C810;
+}
+.block-2-left-bars:last-child{
+  height: 60px;
+  background-color:#98b226;
+  color:white;
+  cursor: pointer;
+}
+.block-2-left-bars:last-child:hover{
+  background-color:#15850C;
+  text-shadow:1px 1px black;
+}
+
+.block-2-left-bars .price_list{
+  text-decoration: none;
+  color: white;
+}
