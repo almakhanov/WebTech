@@ -1,26 +1,27 @@
-Web Technologies Group:
+# Kanc
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
-[Nursultan Almakhanov],
-[Askhat Telzhanov],
-[Alisher Kalkaman],
-[Adlet Balzhanov],
-[Kudaibergen Zhanpeissov]
+## Development server
 
-Project pitch::
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-The project is dedicated for people who want to make the online purchase of stationery.
+## Code scaffolding
 
-Stationery is a mass noun referring to commercially manufactured writing materials, including cut paper, envelopes, writing implements, continuous form paper, and other office supplies.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-The website will provide simple and clear user interface design.
+## Build
 
-The project will contain many categories like:
-  - Drawing & Writing Instruments
-  - Notebooks & Sticky Notes
-  - Office supplies
-  - Office Decor etc
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-User will be able to choose amount of product from desired category and add to the shop cart.
+## Running unit tests
 
-The website will contain several pages like home,   store, FAQ and about us.
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
