@@ -2,16 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
-# Web Technologies Group:
+**Web Technologies Group:**
 
 
-[Nursultan Almakhanov],
-[Askhat Telzhanov],
-[Alisher Kalkaman],
-[Adlet Balzhanov],
-[Kudaibergen Zhanpeissov]
+- Nursultan Almakhanov
+- Askhat Telzhanov
+- Alisher Kalkaman
+- Adlet Balzhanov
+- Kudaibergen Zhanpeissov
 
-Project pitch::
+
+> **Project pitch**
 
 The project is dedicated for people who want to make the online purchase of stationery.
 
