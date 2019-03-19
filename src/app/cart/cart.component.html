@@ -1,0 +1,30 @@
+<div class="final_table">
+  <table border="1" style="width: 100%">
+    <thead>
+    <tr>
+      <th style="width: 6%">Номер</th>
+      <th>Название</th>
+      <th>Цена</th>
+      <th style="width: 10%">Количество</th>
+      <th>Сумма</th>
+      <th>Действие</th>
+    </tr>
+    </thead>
+
+    <tbody id="tableBody">
+      <tr *ngFor="let product of products">
+        <td>{{product.id}}</td>
+        <td>{{product.name}}</td>
+        <td>{{product.price}}</td>
+        <td>1</td>
+        <td>{{product.price}}</td>
+        <td>
+          <button>купить</button>
+          <button>удалить</button>
+        </td>
+      </tr>
+    </tbody>
+
+
+  </table>
+</div>
