@@ -9,6 +9,7 @@ import { MenuComponent } from './components/menu/menu.component';
 import { ProductComponent } from './product/product.component';
 import { FormComponent } from './form/form.component';
 import { CartComponent } from './cart/cart.component';
+import { SliderComponent } from './slider/slider.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { CartComponent } from './cart/cart.component';
     FooterComponent,
     MenuComponent,
     FormComponent,
-    CartComponent
+    CartComponent,
+    SliderComponent
   ],
   imports: [
     BrowserModule,
