@@ -6,9 +6,6 @@ import {FooterComponent} from './components/footer/footer.component';
 import {HeaderComponent} from './components/header/header.component';
 
 const routes: Routes = [
-  {path: 'header', component: HeaderComponent},
-  {path: 'footer', component: FooterComponent},
-  {path: 'menu', component: MenuComponent},
   { path: 'products', component: ProductComponent }
 ];
 
