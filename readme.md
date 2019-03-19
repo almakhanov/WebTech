@@ -11,7 +11,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Adlet Balzhanov
 - Kudaibergen Zhanpeissov
 
-
 > **Project pitch**
 
 The project is dedicated for people who want to make the online purchase of stationery.

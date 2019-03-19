@@ -1,23 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>KBTU Chancery</title>
-  <link href="https://fonts.googleapis.com/css?family=Oswald:700" rel="stylesheet">
-  <title>Online Store</title>
-</head>
-<body>
-  <div class="container">
-    <router-outlet>
-      <app-header></app-header>
+<div class="container">
+  <router-outlet>
+    <app-header></app-header>
 
-      <div class="block-2">
-        <app-menu></app-menu>
+    <div class="block-2">
+      <app-menu></app-menu>
 
-      </div>
+      <!--Dynamic app module is for presentation of all other components as slider, form, products-->
+      <app-dynamic></app-dynamic>
+    </div>
 
-      <app-footer></app-footer>
-    </router-outlet>
-  </div>
-</body>
-</html>
+    <app-footer></app-footer>
+  </router-outlet>
+</div>
